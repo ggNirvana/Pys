@@ -18,8 +18,8 @@ data = {
     'isremenberme': 1,
     'ip':'',
     '_eventId': 'submit',
-    'username': '16211134120',
-    'password': 'woshi.123456',
+    'username': 'username',
+    'password': 'password',
     'rememberUser': 'true',
     'rememberMe': 'true',
     'losetime': 30
